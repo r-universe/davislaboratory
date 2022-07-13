@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dcanr"]
+	path = dcanr
+	url = https://github.com/davislaboratory/dcanr
+	shallow = true
+	registered = true
+[submodule "singscore"]
+	path = singscore
+	url = https://github.com/davislaboratory/singscore
+	shallow = true
+	registered = true
