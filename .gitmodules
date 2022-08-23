@@ -8,8 +8,18 @@
 	url = https://github.com/davislaboratory/dcanr
 	shallow = true
 	registered = true
+[submodule "msImpute"]
+	path = msImpute
+	url = https://github.com/davislaboratory/msimpute
+	shallow = true
+	registered = true
 [submodule "singscore"]
 	path = singscore
 	url = https://github.com/davislaboratory/singscore
+	shallow = true
+	registered = true
+[submodule "vissE"]
+	path = vissE
+	url = https://github.com/davislaboratory/visse
 	shallow = true
 	registered = true
