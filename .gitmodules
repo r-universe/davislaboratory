@@ -18,6 +18,11 @@
 	url = https://github.com/davislaboratory/singscore
 	shallow = true
 	registered = true
+[submodule "standR"]
+	path = standR
+	url = https://github.com/davislaboratory/standr
+	shallow = true
+	registered = true
 [submodule "vissE"]
 	path = vissE
 	url = https://github.com/davislaboratory/visse
