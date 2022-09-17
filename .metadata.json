@@ -6,12 +6,6 @@
     "package": "msImpute"
   },
   {
-    "package": "singscore"
-  },
-  {
     "package": "standR"
-  },
-  {
-    "package": "vissE"
   }
 ]
