@@ -3,6 +3,12 @@
     "package": "dcanr"
   },
   {
+    "package": "msImpute"
+  },
+  {
+    "package": "singscore"
+  },
+  {
     "package": "standR"
   },
   {
