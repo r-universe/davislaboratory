@@ -1,17 +1,17 @@
 [
   {
-    "package": "msImpute"
+    "package": "dcanr"
   },
   {
-    "package": "dcanr"
+    "package": "msImpute"
   },
   {
     "package": "singscore"
   },
   {
-    "package": "vissE"
+    "package": "standR"
   },
   {
-    "package": "standR"
+    "package": "vissE"
   }
 ]

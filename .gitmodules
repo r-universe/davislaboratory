@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "msImpute"]
-	path = msImpute
-	url = https://github.com/davislaboratory/msimpute
-	shallow = true
-	registered = true
 [submodule "dcanr"]
 	path = dcanr
 	url = https://github.com/davislaboratory/dcanr
+	shallow = true
+	registered = true
+[submodule "msImpute"]
+	path = msImpute
+	url = https://github.com/davislaboratory/msimpute
 	shallow = true
 	registered = true
 [submodule "singscore"]
@@ -18,13 +18,13 @@
 	url = https://github.com/davislaboratory/singscore
 	shallow = true
 	registered = true
-[submodule "vissE"]
-	path = vissE
-	url = https://github.com/davislaboratory/visse
-	shallow = true
-	registered = true
 [submodule "standR"]
 	path = standR
 	url = https://github.com/davislaboratory/standr
+	shallow = true
+	registered = true
+[submodule "vissE"]
+	path = vissE
+	url = https://github.com/davislaboratory/visse
 	shallow = true
 	registered = true
