@@ -8,6 +8,11 @@
 	url = https://github.com/davislaboratory/dcanr
 	shallow = true
 	registered = true
+[submodule "mastR"]
+	path = mastR
+	url = https://github.com/davislaboratory/mastr
+	shallow = true
+	registered = true
 [submodule "msImpute"]
 	path = msImpute
 	url = https://github.com/davislaboratory/msimpute
