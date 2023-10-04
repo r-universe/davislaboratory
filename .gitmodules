@@ -5,6 +5,9 @@
 [submodule "dcanr"]
 	path = dcanr
 	url = https://github.com/davislaboratory/dcanr
+[submodule "hoodscanR"]
+	path = hoodscanR
+	url = https://github.com/davislaboratory/hoodscanr
 [submodule "mastR"]
 	path = mastR
 	url = https://github.com/davislaboratory/mastr
